@@ -210,22 +210,22 @@
   ],
   "images": [
     {
-      "uri": "textures/chair_metallicRoughness.png"
+      "uri": "chair_metallicRoughness.png"
     },
     {
-      "uri": "textures/chair_baseColor.jpeg"
+      "uri": "chair_baseColor.jpeg"
     },
     {
-      "uri": "textures/chair_normal.png"
+      "uri": "chair_normal.png"
     },
     {
-      "uri": "textures/chairwood_metallicRoughness.png"
+      "uri": "chairwood_metallicRoughness.png"
     },
     {
-      "uri": "textures/chairwood_baseColor.jpeg"
+      "uri": "chairwood_baseColor.jpeg"
     },
     {
-      "uri": "textures/chairwood_normal.png"
+      "uri": "chairwood_normal.png"
     }
   ],
   "materials": [
